@@ -1,7 +1,7 @@
 <mvc:View controllerName="sap.sync.odata.controller.View1"
 	xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
 	xmlns="sap.m">
-	<Page id="page" title="판매오더 목록">
+	<Page id="page" title="판매오더목록">
 		<content>
 			<HBox>
 				<Input id="soId" value="{view>/salesOrderNum}"/>
